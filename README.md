@@ -1,2 +1,2 @@
-# goGrammar
-go基础语法，vsCode编译
+# goBasicLearning
+go基础学习
