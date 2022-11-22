@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Println("测试go打印")
 	channelMain()           //通道
 	concurrenceMain()       //并发
 	errHandle()             //错误处理
